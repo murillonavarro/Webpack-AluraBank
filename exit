@@ -1,0 +1,59 @@
+[33mcommit ea9a8bd12a47ac39a894952154892380ad8b9dad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Tue Aug 20 11:54:51 2019 -0300
+
+    Importando Bootstrap como um módulo
+
+[33mcommit 96b6d9a96ffca73fdf9cad6cbf4358c1f4df3f19[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Tue Aug 20 10:12:55 2019 -0300
+
+    Instalando o bootstrap pelo npm.
+
+[33mcommit 5e6708181850c09ce92d11a9608ee66fb44ea777[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Tue Aug 20 09:56:12 2019 -0300
+
+    Instalando e configurando o webpack-dev-server.
+
+[33mcommit 8ebdd8f54c93af43b7229d99dadc51c099d5bdd2[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Tue Aug 20 09:44:54 2019 -0300
+
+    Adequando a aplicação.
+
+[33mcommit 6a558af425a9ec978df27dc0c8dd977c29235057[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Fri Aug 16 10:11:08 2019 -0300
+
+    Mudando o ambiente com cross-env.
+
+[33mcommit fcffd8c4f29b3ee2bcce5594a7377179fcb7e300[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Fri Aug 16 09:59:39 2019 -0300
+
+    Corrigindo falha de segurança na versão do debug.
+
+[33mcommit 1371d29f8717a9d2c6478b2ce2bc70f6915ca374[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Fri Aug 16 09:57:17 2019 -0300
+
+    Preparando o build de produção.
+
+[33mcommit 602fc45b87526b790739238584174ed93faee064[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Thu Aug 15 10:09:55 2019 -0300
+
+    Criando o babel-loader.
+
+[33mcommit fb63a00946c13673d9d9d550fe3ceb301a6f52d3[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Thu Aug 15 09:47:54 2019 -0300
+
+    Configurando o webpack config.
+
+[33mcommit 9dd54ca466ef8920f6811404c4ac3f06b8502b27[m
+Author: Murillo Bilches Navarro <mnavarro@HYPERATIVA.NET>
+Date:   Tue Aug 13 10:01:30 2019 -0300
+
+    Preparando o terreno para o Webpack.
